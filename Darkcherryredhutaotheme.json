@@ -1,0 +1,45 @@
+{
+  "name": "hu tao dark red theme",
+  "description": "Deep red Monet-style theme",
+  "authors": [
+    {
+      "name": "slash",
+      "id": "1482411365288251392"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_TERTIARY": ["#1a0505"],
+    "BACKGROUND_ACCENT": ["#4a0e0e"],
+    "BACKGROUND_SECONDARY": ["#2b0a0a"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#5c1a1a"],
+    "DIVIDER_STRONG": ["#4a0e0e"],
+    "DIVIDER_SUBTLE": ["#4a0e0e"],
+    "BORDER_SUBTLE": ["#4a0e0e"],
+    "TEXT_BRAND": ["#ff4d4d"],
+    "TEXT_LINK": ["#ff6e6e"],
+    "TEXT_NORMAL": ["#ffffff"],
+    "TEXT_MUTED": ["#cc9999"],
+    "CHAT_INPUT_CONTAINER_BACKGROUND": ["#1a0505"],
+    "MENTION_BADGE": ["#ff3333"],
+    "REDESIGN_BUTTON_PRIMARY_BACKGROUND": ["#7a1a1a"],
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#4a0e0e"]
+  },
+  "rawColors": {
+    "PRIMARY_600": "#1a0505",
+    "PRIMARY_700": "#120303",
+    "BRAND_500": "#7a1a1a",
+    "BLACK_500": "#00000080"
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/slashypoo/Hu-Tao-photo/refs/heads/main/IMG_0640.JPG",
+    "blur": 0.1,
+    "alpha": 0.45,
+    "size": "cover",
+    "position": "center"
+  },
+  "plus": {
+    "version": "0",
+    "iconpack": "solar"
+  },
+  "spec": 2
+}
